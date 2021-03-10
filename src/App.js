@@ -3,6 +3,7 @@ import React, {useState , useContext} from "react";
 import counterContext from './Context';
 import './App.css';
 import Parent from './Parent';
+import Parent2 from './Parent2';
 function App() {
 return(
 
@@ -10,7 +11,7 @@ return(
 <counterContext.Provider value="SOHAIL">
 
 <Parent/>
-
+<Parent2/>
 </counterContext.Provider>
 </div>
 
