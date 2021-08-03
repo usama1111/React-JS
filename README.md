@@ -1,3 +1,6 @@
+Mirage Document : https://miragejs.com/quickstarts/react/develop-an-app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
